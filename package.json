@@ -1,0 +1,27 @@
+{
+  "name": "@cholis321/ptt-id",
+  "version": "1.0.0",
+  "description": "Tea token, make dev sunshine",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cholis321/PTT-ID.git"
+  },
+  "keywords": [
+    "TEA",
+    "Token",
+    "Testnet"
+  ],
+  "author": "cholis321",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cholis321/PTT-ID/issues"
+  },
+  "homepage": "https://github.com/cholis321/PTT-ID#readme",
+  "dependencies": {
+    "ptt-id": "^1.0.0"
+  }
+}
